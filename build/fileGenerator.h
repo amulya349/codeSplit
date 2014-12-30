@@ -24,6 +24,7 @@ class fileGenerator {
         /*The below while loop adds the preprocessor declarations of each file. But m having a problem.. When I uncomment the below while
         loop and run the program, it runs with an infinite loop with the follwing while loop ( this loop runs fine). But without the
         below loop, everything runs fine.*/
+
         /*while(!fin.eof())
         {
             string buf1;
