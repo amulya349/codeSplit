@@ -52,7 +52,7 @@ class file {
     void close_file( fstream myfile) {
         myfile.close();
     }
-    void generate_func_file(string fileName, string fileNameShort)
+    void generate_func_file(string fileName, string fileNameShort);
 
 
 
